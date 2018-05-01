@@ -3,7 +3,7 @@
 
 A simple Java code illustrating use of Barnes Hut algorithm for N-body simulation of a group of unit mass bodies - "stars" - interacting through the force of gravity.
 
-This is a parallel version designed to run on systems with OpenCL-compatible graphics acceleration.  It does this through the Java API [Aparapi](www.aparapi.com).
+This is a parallel version designed to run on systems with OpenCL-compatible graphics acceleration.  It does this through the Java API [Aparapi](http://www.aparapi.com).
 
 ## Getting Started
 
